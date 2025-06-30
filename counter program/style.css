@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+}
+
+#count{
+    font-size: 14rem;
+    color: #333;
+    font-weight: bold;
+}
