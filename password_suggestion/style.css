@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    border: 2px solid #4a3f4b;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 500px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1{
+    font-size: 2em;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#passwordInput {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+#suggestBtn {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#suggestBtn:hover {
+    background-color: #0056b3;
+}
+#suggestBtn:active {
+    background-color: #004080;
+}
